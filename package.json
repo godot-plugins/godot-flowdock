@@ -1,0 +1,21 @@
+{
+  "name": "godot-flowdock",
+  "description": "Godot Plugin: Flowdock Reactor",
+  "version": "0.1.0",
+  "author": "Olivier Bazoud <olivier.bazoud@gmail.com>",
+  "homepage": "https://github.com/godot-plugins/godot-flowdock.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godot-plugins/godot-flowdock.git"
+  },
+  "dependencies": {
+    "godot": "0.2.7",
+    "flowdock": "0.4.3",
+    "utile": "0.1.7"
+  },
+  "main": "./lib/godot-flowdock/index.js",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
+
