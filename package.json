@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "godot": "0.2.7",
-    "flowdock": "0.4.3",
     "utile": "0.1.7"
   },
   "main": "./lib/godot-flowdock/index.js",
